@@ -23,5 +23,3 @@ test
 coverage
 jsdoc-api
 node_modules
-src
-test
